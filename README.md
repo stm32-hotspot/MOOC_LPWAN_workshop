@@ -1,7 +1,6 @@
 # MOOC LPWAN workshop
 
-WARNING  : 
-    This material has been created in 2020 and is delivered as it is.
+Disclaimer: This material was created in 2020 and is delivered as is.
 
 ## MOOC purpose 
 
